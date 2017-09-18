@@ -1,0 +1,11 @@
+jupyter==1.0.0
+ipython>=5.0.0
+ipython-sql>=0.3.8
+numpy==1.13.0
+pandas==0.20.2
+scipy==0.19.1
+scikit-learn==0.18.2
+matplotlib>=2.0.2
+Flask==0.12.2
+sqlalchemy>=1.1.14
+psycopg2>=2.7.3.1
